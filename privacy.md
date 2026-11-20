@@ -1,6 +1,6 @@
 # Chính sách quyền riêng tư — Legendary King - RTS
 
-*Cập nhật lần cuối: 19/11/2026*
+*Cập nhật lần cuối: 21/11/2026*
 
 Legendary King - RTS ("trò chơi") do cá nhân **Huỳnh Công Chánh** ("chúng tôi") phát triển và phát hành. Chính sách này cho biết trò chơi thu thập những dữ liệu nào, dùng để làm gì và bạn có những quyền gì.
 
@@ -13,21 +13,22 @@ Legendary King - RTS ("trò chơi") do cá nhân **Huỳnh Công Chánh** ("chú
 | **Tên hiển thị** | Khi bạn đặt tên | Hiện cho người chơi khác (trận đấu, bảng xếp hạng, chat) |
 | **Tiến trình chơi**: cấp, kinh nghiệm, Xu, vật phẩm, điểm và hạng, số trận thắng/thua | Khi bạn chơi | Lưu tiến trình, bảng xếp hạng |
 | **Danh sách bạn bè**, lời mời kết bạn, trạng thái trực tuyến | Khi bạn dùng mục Bạn bè | Kết bạn, mời vào phòng |
-| **Tin nhắn chat** (chỉ chữ, không có thoại) | Khi bạn gửi tin trong kênh Thế giới, Phòng hoặc tin riêng | Chuyển tin tới người nhận |
+| **Tin nhắn chat** (chữ) | Khi bạn gửi tin trong kênh Thế giới, Phòng hoặc tin riêng | Chuyển tin tới người nhận |
+| **Giọng nói** (micro) | Chỉ khi bạn tự bấm nút MIC trong trận có người chơi thật | Truyền trực tiếp tới người cùng trận hoặc cùng đội; **không ghi âm, không lưu lại** |
 | **Báo cáo vi phạm**: ai báo cáo, tên người bị báo cáo, lý do, thời gian | Khi bạn bấm Báo cáo | Xử lý hành vi xấu |
 | **Địa chỉ IP** (tạm thời) | Khi chơi trực tuyến hoặc trong mạng nội bộ (LAN) | Kết nối các máy trong trận; không lưu lâu dài |
 
-Trò chơi **không** thu thập vị trí, danh bạ, ảnh, micro, thông tin thanh toán hay mã quảng cáo. Trò chơi **không có quảng cáo** và **không bán gì bằng tiền thật**. Cài đặt, trận đã lưu và ngôn ngữ chỉ nằm trên máy của bạn.
+Micro mặc định **tắt**; trò chơi chỉ xin quyền micro khi bạn bấm nút MIC lần đầu, và bạn có thể tắt bất cứ lúc nào. Trò chơi **không** thu thập vị trí, danh bạ, ảnh, thông tin thanh toán hay mã quảng cáo. Trò chơi **không có quảng cáo** và **không bán gì bằng tiền thật**. Cài đặt, trận đã lưu và ngôn ngữ chỉ nằm trên máy của bạn.
 
 ## 2. Bên xử lý dữ liệu
 
-Dữ liệu trực tuyến được lưu và xử lý bởi **Unity Technologies** thông qua các dịch vụ Unity Gaming Services: Authentication, Cloud Save, Leaderboards, Friends, Lobby, Relay và Vivox (chat chữ). Unity là bên xử lý dữ liệu thay mặt chúng tôi. Xem chính sách của Unity: https://unity.com/legal/privacy-policy
+Dữ liệu trực tuyến được lưu và xử lý bởi **Unity Technologies** thông qua các dịch vụ Unity Gaming Services: Authentication, Cloud Save, Leaderboards, Friends, Lobby, Relay và Vivox (chat chữ và giọng nói). Unity là bên xử lý dữ liệu thay mặt chúng tôi. Xem chính sách của Unity: https://unity.com/legal/privacy-policy
 
 Chúng tôi **không bán** và **không chia sẻ** dữ liệu của bạn cho bên thứ ba vì mục đích quảng cáo.
 
 ## 3. Thời gian lưu giữ
 
-Dữ liệu tài khoản và tiến trình được giữ đến khi bạn xóa tài khoản. Tin nhắn chat chỉ được chuyển tiếp, chúng tôi không lưu trữ lịch sử chat trên máy chủ riêng. Báo cáo vi phạm được giữ tối đa 12 tháng.
+Dữ liệu tài khoản và tiến trình được giữ đến khi bạn xóa tài khoản. Tin nhắn chat và giọng nói chỉ được chuyển tiếp trực tiếp; chúng tôi không lưu trữ lịch sử chat và không ghi âm giọng nói. Báo cáo vi phạm được giữ tối đa 12 tháng.
 
 ## 4. Xóa tài khoản và dữ liệu
 
@@ -59,7 +60,7 @@ Huỳnh Công Chánh — **huynhcongchanh23082000@gmail.com**
 
 # Privacy Policy — Legendary King - RTS
 
-*Last updated: 19 November 2026*
+*Last updated: 21 November 2026*
 
 Legendary King - RTS ("the game") is developed and published by the individual developer **Huỳnh Công Chánh** ("we"). This policy explains what the game collects, why, and your rights.
 
@@ -72,21 +73,22 @@ Legendary King - RTS ("the game") is developed and published by the individual d
 | **Display name** | When you set it | Shown to other players (matches, leaderboards, chat) |
 | **Game progress**: level, experience, Coins, items, points and rank, wins/losses | While you play | Save progress, leaderboards |
 | **Friends list**, friend requests, online status | When you use Friends | Friends, room invites |
-| **Chat messages** (text only, no voice) | When you write in World, Room or private chat | Deliver messages |
+| **Chat messages** (text) | When you write in World, Room or private chat | Deliver messages |
+| **Voice** (microphone) | Only when you press the MIC button in a match with real players | Streamed live to players in the same match or team; **never recorded or stored** |
 | **Reports**: reporter, reported name, reason, time | When you press Report | Deal with abuse |
 | **IP address** (temporarily) | When playing online or on a local network | Connect players in a match; not stored long-term |
 
-The game does **not** collect location, contacts, photos, microphone, payment data or advertising IDs. There are **no ads** and **no real-money purchases**. Settings, saved games and language stay on your device.
+The microphone is **off** by default; the game asks for microphone permission only when you first press MIC, and you can turn it off at any time. The game does **not** collect location, contacts, photos, payment data or advertising IDs. There are **no ads** and **no real-money purchases**. Settings, saved games and language stay on your device.
 
 ## 2. Processors
 
-Online data is stored and processed by **Unity Technologies** through Unity Gaming Services (Authentication, Cloud Save, Leaderboards, Friends, Lobby, Relay, Vivox text chat), acting on our behalf. Unity's privacy policy: https://unity.com/legal/privacy-policy
+Online data is stored and processed by **Unity Technologies** through Unity Gaming Services (Authentication, Cloud Save, Leaderboards, Friends, Lobby, Relay, Vivox text and voice chat), acting on our behalf. Unity's privacy policy: https://unity.com/legal/privacy-policy
 
 We do **not sell** your data or share it with third parties for advertising.
 
 ## 3. Retention
 
-Account and progress data are kept until you delete your account. Chat messages are relayed, not archived by us. Reports are kept for up to 12 months.
+Account and progress data are kept until you delete your account. Chat messages and voice are relayed live, never archived or recorded by us. Reports are kept for up to 12 months.
 
 ## 4. Deleting your account and data
 
