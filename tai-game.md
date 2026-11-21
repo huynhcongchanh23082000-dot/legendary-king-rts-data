@@ -9,6 +9,8 @@ Game đang thử nghiệm trên CH Play. Hãy mở bằng **Chrome**, đăng nh�
 
 **Đang có bản APK?** Đừng gỡ ra. CH Play cài đè lên, giữ nguyên tiến trình và tài khoản.
 
+**CH Play báo lỗi khi cài** (ví dụ "Đã xảy ra sự cố", máy bán ở Trung Quốc)? Vẫn làm bước 1 và 2 ở trên, rồi **[tải bản CH Play cài tay](https://github.com/huynhcongchanh23082000-dot/legendary-king-rts-data/releases/download/ch-play-apk/LegendaryKingRTS-CHPlay.apk)** (1,5 GB) và mở tệp để cài (cho phép "cài ứng dụng không rõ nguồn" một lần). Đây vẫn là bản CH Play chính thức.
+
 ## 💻 Máy tính (Windows)
 
 **[Tải bản PC](https://github.com/huynhcongchanh23082000-dot/legendary-king-rts-data/releases/latest/download/LegendaryKingRTS-PC.zip)**: giải nén rồi mở `LegendaryKingRTS.exe`.
